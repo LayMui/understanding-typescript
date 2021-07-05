@@ -1,0 +1,5 @@
+# Getting Started with Typescript
+
+1. To compile vanilla JS 
+    tsc using-ts.js   
+    if there is no error, it will be converted to using-ts.js
